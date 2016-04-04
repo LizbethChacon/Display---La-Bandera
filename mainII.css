@@ -1,0 +1,22 @@
+div{
+	display: block;
+	width: 200px;
+	margin-bottom: 20px;
+
+}
+
+.uno{
+	background: yellow;
+	padding: 30px;
+
+}
+
+.dos{
+	background: red;
+	padding: 30px;
+}
+
+p{
+	text-align: left;
+	margin-top: 5px;
+}

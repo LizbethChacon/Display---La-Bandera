@@ -1,0 +1,13 @@
+div{
+	display: inline-block;
+}
+
+.uno{
+	background: yellow;
+	padding: 30px;
+}
+
+.dos{
+	background: red;
+	padding: 30px;
+}
